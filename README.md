@@ -1,6 +1,5 @@
 # 診断アプリ (Diagnoser App)
 
-![screenshot](static/img/sample_quiz.jpg)
 
 「診断をする」だけでなく「自分で診断を作れる」シンプルなWebアプリです。  
 プログラミングが分からなくても、管理ページから診断を登録すればすぐに遊べます 🎉
